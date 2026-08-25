@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:plate_pastry_raw"
+  },
+  "result": {
+    "item": "coffeework:plate_pastry",
+    "count": 4
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

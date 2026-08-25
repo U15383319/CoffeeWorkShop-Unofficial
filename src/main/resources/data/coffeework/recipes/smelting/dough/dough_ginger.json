@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:dough_ginger"
+  },
+  "result": {
+    "item": "coffeework:ginger_bread",
+    "count": 8
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

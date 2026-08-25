@@ -1,0 +1,17 @@
+{
+  "name": "Thermal Roller",
+  "category": "coffeework:machines",
+  "icon": "coffeework:roller_off",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:roller_off",
+      "text": "The Thermal Roller handles both metal and dough: it presses iron ingots into iron plates and turns regular, pastry, or ginger dough into matching sheets."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Supply normal furnace fuel in the lower slot. Dough sheets feed later pastry and baking recipes, while iron plates are used for machines, containers, and moulds."
+    }
+  ]
+}

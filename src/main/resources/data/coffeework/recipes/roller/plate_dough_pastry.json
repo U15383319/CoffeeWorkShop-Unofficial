@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:roller",
+  "ingredient": {
+    "item": "coffeework:dough_pastry"
+  },
+  "result": {
+    "item": "coffeework:plate_dough_pastry",
+    "count": 1
+  },
+  "processing_time": 120,
+  "experience": 1.0
+}

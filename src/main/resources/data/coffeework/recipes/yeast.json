@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "coffeework:mixing_bowl"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "coffeework:yeast",
+    "count": 8
+  }
+}

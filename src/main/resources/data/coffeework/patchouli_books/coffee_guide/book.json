@@ -1,0 +1,8 @@
+{
+  "name": "book.coffeework.coffee_guide.name",
+  "landing_text": "book.coffeework.coffee_guide.landing_text",
+  "version": 1,
+  "creative_tab": "coffeework:main",
+  "use_resource_pack": true,
+  "show_progress": false
+}

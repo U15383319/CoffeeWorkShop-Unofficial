@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_model_square"
+    },
+    {
+      "item": "coffeework:iron_bowl_batter_chocolate"
+    },
+    {
+      "item": "coffeework:chocolate_chip"
+    }
+  ],
+  "result": {
+    "item": "coffeework:brownie_raw",
+    "count": 1
+  }
+}

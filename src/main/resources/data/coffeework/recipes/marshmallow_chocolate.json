@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:marshmallow_roast"
+    },
+    {
+      "item": "coffeework:cocoa_powder"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "coffeework:marshmallow_chocolate",
+    "count": 2
+  }
+}

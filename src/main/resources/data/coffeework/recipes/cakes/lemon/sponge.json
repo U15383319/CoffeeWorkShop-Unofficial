@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_sponge_lemon_model"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_sponge_lemon",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "冰淇淋机",
+  "category": "coffeework:machines",
+  "icon": "coffeework:icecreammachine_off",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:icecreammachine_off",
+      "text": "将奶油混合物冷冻成七种口味的冰淇淋。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "燃料槽可放雪球、冰、浮冰或蓝冰；密度更高的冰能够让机器持续工作更久。"
+    }
+  ]
+}

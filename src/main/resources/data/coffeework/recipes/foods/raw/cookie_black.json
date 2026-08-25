@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:dough"
+    },
+    {
+      "item": "coffeework:cocoa_powder"
+    },
+    {
+      "item": "coffeework:cocoa_powder"
+    },
+    {
+      "item": "coffeework:butter"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cookie_black_raw",
+    "count": 2
+  }
+}

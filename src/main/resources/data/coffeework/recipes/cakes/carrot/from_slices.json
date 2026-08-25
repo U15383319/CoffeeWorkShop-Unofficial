@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    },
+    {
+      "item": "coffeework:cake_sponge_carrot_slices"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_sponge_carrot",
+    "count": 1
+  }
+}

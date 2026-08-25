@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:grinder",
+  "ingredient": {
+    "item": "minecraft:ice"
+  },
+  "result": {
+    "item": "coffeework:ice_slag",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

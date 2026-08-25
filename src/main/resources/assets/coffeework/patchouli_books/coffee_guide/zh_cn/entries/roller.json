@@ -1,0 +1,17 @@
+{
+  "name": "火力卷板器",
+  "category": "coffeework:machines",
+  "icon": "coffeework:roller_off",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:roller_off",
+      "text": "火力卷板器同时负责金属和面团的压片：它可将铁锭压成铁板，也可将普通、油酥或姜饼面团压成相应面片。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "在下方槽位加入普通熔炉燃料。面团薄片用于后续酥点和烘焙配方，铁板则用于制作机器、容器和模具。"
+    }
+  ]
+}

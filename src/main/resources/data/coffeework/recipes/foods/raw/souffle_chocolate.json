@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:iron_bowl_egg"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:butter"
+    },
+    {
+      "item": "coffeework:cocoa_powder"
+    },
+    {
+      "item": "coffeework:small_model"
+    },
+    {
+      "item": "coffeework:small_model"
+    },
+    {
+      "item": "coffeework:small_model"
+    },
+    {
+      "item": "coffeework:small_model"
+    }
+  ],
+  "result": {
+    "item": "coffeework:souffle_chocolate_raw",
+    "count": 4
+  }
+}

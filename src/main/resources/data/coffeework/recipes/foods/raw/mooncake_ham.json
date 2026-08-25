@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "coffeework:ingredients/raw_meats"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:dough_pastry"
+    },
+    {
+      "item": "coffeework:mooncake_model"
+    }
+  ],
+  "result": {
+    "item": "coffeework:mooncake_ham_raw",
+    "count": 2
+  }
+}

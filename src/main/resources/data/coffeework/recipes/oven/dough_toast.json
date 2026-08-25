@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:dough_toast"
+  },
+  "result": {
+    "item": "coffeework:toast",
+    "count": 2
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

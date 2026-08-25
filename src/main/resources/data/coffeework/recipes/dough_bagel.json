@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:dough"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "coffeework:dough_bagel",
+    "count": 1
+  }
+}

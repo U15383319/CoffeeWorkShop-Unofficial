@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:coffee_instant_stick"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_instant_cup_unopen",
+    "count": 1
+  }
+}

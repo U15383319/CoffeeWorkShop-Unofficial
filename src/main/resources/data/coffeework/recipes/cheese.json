@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:mixing_bowl"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "coffeework:yeast"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cheese",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cookie_black"
+    },
+    {
+      "item": "coffeework:cream_milk"
+    },
+    {
+      "item": "coffeework:cookie_black"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cookie_oreo",
+    "count": 1
+  }
+}

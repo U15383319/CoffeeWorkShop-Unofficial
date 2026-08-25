@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:grinder",
+  "ingredient": {
+    "item": "minecraft:wheat"
+  },
+  "result": {
+    "item": "coffeework:flour",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

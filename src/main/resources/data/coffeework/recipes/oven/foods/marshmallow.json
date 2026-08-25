@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:marshmallow"
+  },
+  "result": {
+    "item": "coffeework:marshmallow_roast",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

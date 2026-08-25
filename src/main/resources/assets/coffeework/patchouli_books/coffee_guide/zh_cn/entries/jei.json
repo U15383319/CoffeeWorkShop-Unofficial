@@ -1,0 +1,16 @@
+{
+  "name": "使用 JEI",
+  "category": "coffeework:basics",
+  "icon": "coffeework:grinder_off",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "安装 JEI 后，将鼠标放在原料上按 R，或在成品上按 U，即可查询咖啡工坊配方。带加工界面的机器各有独立的配方分类和催化剂入口。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "打开正确的机器并点击界面中的进度箭头，也可直接打开对应分类。JEI 的转移按钮会把匹配原料放入输入槽；燃料仍需另行加入。"
+    }
+  ]
+}

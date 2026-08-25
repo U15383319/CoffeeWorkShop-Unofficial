@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_model"
+    },
+    {
+      "item": "coffeework:iron_bowl_batter_carrot"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_sponge_carrot_raw",
+    "count": 1
+  }
+}

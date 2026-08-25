@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "coffeework:plate_ginger"
+    }
+  },
+  "result": {
+    "item": "coffeework:ginger_house",
+    "count": 1
+  }
+}

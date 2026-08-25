@@ -1,0 +1,24 @@
+{
+  "name": "冷萃壶",
+  "category": "coffeework:machines",
+  "icon": "coffeework:coldbrew_pot",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:empty_coldbrew_pot",
+      "text": "先用四块铁板和三块玻璃板制作空冷萃壶。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:coldbrew_pot",
+      "text": "将空冷萃壶、四份咖啡粉和一桶水组合，再把装好原料的冷萃壶放置到世界中。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "coffeework:coldbrew_bottle",
+      "title": "等待与装瓶",
+      "text": "放置后的冷萃壶会推进七个冷萃阶段。壶中出现咖啡后，用玻璃瓶右击，即可取得一瓶冷萃咖啡瓶。"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:bag_coffee"
+    },
+    {
+      "item": "coffeework:bag_coffee"
+    }
+  ],
+  "result": {
+    "item": "coffeework:double_bag_coffee",
+    "count": 1
+  }
+}

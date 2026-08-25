@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:jiggy_cake_redvelvet_model"
+    }
+  ],
+  "result": {
+    "item": "coffeework:jiggy_cake_redvelvet",
+    "count": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cup"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "coffeework:cocoa_powder"
+    },
+    {
+      "item": "coffeework:cocoa_powder"
+    },
+    {
+      "item": "coffeework:chocolate_bar"
+    },
+    {
+      "item": "coffeework:syrup_full"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cocoa_strong",
+    "count": 1
+  }
+}

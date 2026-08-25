@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:icecream_machine",
+  "ingredient": {
+    "item": "coffeework:mousse_chocolate_raw"
+  },
+  "result": {
+    "item": "coffeework:mousse_chocolate_model",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

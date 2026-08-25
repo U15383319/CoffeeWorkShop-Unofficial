@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:mixing_bowl"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "coffeework:custard",
+    "count": 1
+  }
+}

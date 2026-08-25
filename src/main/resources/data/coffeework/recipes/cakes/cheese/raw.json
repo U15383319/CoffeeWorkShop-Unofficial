@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_model"
+    },
+    {
+      "item": "coffeework:iron_bowl_cheese"
+    },
+    {
+      "tag": "coffeework:ingredients/base_cakes"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_cheese_raw",
+    "count": 1
+  }
+}

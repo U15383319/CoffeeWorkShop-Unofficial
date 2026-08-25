@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "coffeework:icecream_melon"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cookie_icecream_melon",
+    "count": 1
+  }
+}

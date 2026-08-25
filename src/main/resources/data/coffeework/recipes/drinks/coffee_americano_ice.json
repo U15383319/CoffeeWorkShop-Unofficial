@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:espresso"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "coffeework:cup_glass"
+    },
+    {
+      "item": "coffeework:ice_slag"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_americano_ice",
+    "count": 1
+  }
+}

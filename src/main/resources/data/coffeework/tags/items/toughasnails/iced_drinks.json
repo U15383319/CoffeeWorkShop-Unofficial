@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "coffeework:cocoa_ice",
+    "coffeework:cocoa_strong_ice",
+    "coffeework:coffee_americano_fruit_ice",
+    "coffeework:coffee_americano_ice",
+    "coffeework:coffee_americano_nitro_fruit_ice",
+    "coffeework:coffee_americano_nitro_ice",
+    "coffeework:coffee_cappuccino_ice",
+    "coffeework:coffee_coldbrew_fruit_ice",
+    "coffeework:coffee_coldbrew_ice",
+    "coffeework:coffee_coldbrew_latte_caramel_ice",
+    "coffeework:coffee_coldbrew_latte_chocolate_ice",
+    "coffeework:coffee_coldbrew_latte_fruit_ice",
+    "coffeework:coffee_coldbrew_latte_ice",
+    "coffeework:coffee_coldbrew_latte_mint_ice",
+    "coffeework:coffee_coldbrew_latte_vanilla_ice",
+    "coffeework:coffee_latte_caramel_ice",
+    "coffeework:coffee_latte_chocolate_ice",
+    "coffeework:coffee_latte_fruit_ice",
+    "coffeework:coffee_latte_ice",
+    "coffeework:coffee_latte_mint_ice",
+    "coffeework:coffee_latte_sakura_ice",
+    "coffeework:coffee_latte_vanilla_ice",
+    "coffeework:coffee_macchiato_ice",
+    "coffeework:coffee_mochaccino_ice",
+    "coffeework:coffee_green_tea_ice",
+    "coffeework:coffee_black_tea_ice",
+    "coffeework:coffee_milk_tea_ice",
+    "coffeework:coffee_mandarin_drink_ice"
+  ]
+}

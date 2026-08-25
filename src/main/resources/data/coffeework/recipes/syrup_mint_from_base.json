@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:syrup_full"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "coffeework:syrup_mint",
+    "count": 1
+  }
+}

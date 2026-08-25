@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:grinder",
+  "ingredient": {
+    "item": "coffeework:coffee_seeds"
+  },
+  "result": {
+    "item": "coffeework:coffee_bean_raw",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

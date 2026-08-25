@@ -1,0 +1,17 @@
+{
+  "name": "Thermal Grinder",
+  "category": "coffeework:machines",
+  "icon": "coffeework:grinder_off",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:grinder_off",
+      "text": "The Thermal Grinder processes beans, cocoa, grain, chocolate and soda materials."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Place the material in the upper input slot and furnace fuel in the lower slot. The result appears on the right."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:espresso"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "coffeework:cup"
+    },
+    {
+      "item": "coffeework:syrup_brown"
+    },
+    {
+      "item": "coffeework:milk_form"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_cappuccino",
+    "count": 1
+  }
+}

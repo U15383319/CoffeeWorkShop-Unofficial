@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PMP"
+  ],
+  "key": {
+    "P": {
+      "item": "coffeework:plate_iron"
+    },
+    "M": {
+      "item": "coffeework:cake_model_plate"
+    }
+  },
+  "result": {
+    "item": "coffeework:cake_model_square",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "饮品份数与摆盘",
+  "category": "coffeework:drinks_food",
+  "icon": "coffeework:coffee_latte",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "大多数咖啡有三份，美式咖啡和可可有四份，浓缩咖啡只有一份。物品上的耐久条样式会显示剩余饮用份数。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "coffeework:plate",
+      "title": "餐桌摆盘",
+      "text": "用未饮用的咖啡点击空盘可将饮品摆上桌。再次交互可取回饮品，并留下可重复使用的盘子。"
+    }
+  ]
+}

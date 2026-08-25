@@ -1,0 +1,6 @@
+{
+  "name": "Machines",
+  "description": "The six processing machines used by Coffee Workshop.",
+  "icon": "coffeework:grinder_off",
+  "sortnum": 1
+}

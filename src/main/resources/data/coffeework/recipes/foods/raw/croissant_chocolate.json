@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:butter"
+    },
+    {
+      "item": "coffeework:dough"
+    },
+    {
+      "item": "coffeework:chocolate_bar"
+    }
+  ],
+  "result": {
+    "item": "coffeework:croissant_chocolate_raw",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:mixing_bowl"
+    },
+    {
+      "item": "coffeework:milk_form"
+    }
+  ],
+  "result": {
+    "item": "coffeework:butter",
+    "count": 1
+  }
+}

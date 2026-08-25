@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:muffin_chocolate_raw"
+  },
+  "result": {
+    "item": "coffeework:muffin_chocolate",
+    "count": 1
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

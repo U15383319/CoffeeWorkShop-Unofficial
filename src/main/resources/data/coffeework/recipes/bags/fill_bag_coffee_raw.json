@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:bag"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    {
+      "item": "coffeework:coffee_bean_raw"
+    }
+  ],
+  "result": {
+    "item": "coffeework:bag_coffee_raw",
+    "count": 1
+  }
+}

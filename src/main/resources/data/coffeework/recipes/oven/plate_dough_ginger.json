@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:plate_dough_ginger"
+  },
+  "result": {
+    "item": "coffeework:plate_ginger",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

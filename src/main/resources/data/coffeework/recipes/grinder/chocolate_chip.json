@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:grinder",
+  "ingredient": {
+    "item": "coffeework:chocolate_bar"
+  },
+  "result": {
+    "item": "coffeework:chocolate_chip",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

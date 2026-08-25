@@ -1,0 +1,17 @@
+{
+  "name": "火力研磨器",
+  "category": "coffeework:machines",
+  "icon": "coffeework:grinder_off",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:grinder_off",
+      "text": "火力研磨器可加工咖啡豆、可可、小麦、巧克力及汽水材料。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "将原料放入上方输入槽，将普通熔炉燃料放入下方槽位，产物会出现在右侧。"
+    }
+  ]
+}

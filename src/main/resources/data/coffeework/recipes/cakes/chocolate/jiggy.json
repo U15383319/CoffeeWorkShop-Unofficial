@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:jiggy_cake_chocolate_model"
+    }
+  ],
+  "result": {
+    "item": "coffeework:jiggy_cake_chocolate",
+    "count": 2
+  }
+}

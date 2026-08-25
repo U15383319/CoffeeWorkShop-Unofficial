@@ -1,0 +1,18 @@
+{
+  "name": "Crops and Ingredients",
+  "category": "coffeework:basics",
+  "icon": "coffeework:vanilla_seeds",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Coffee trees, blueberry bushes, and vanilla are cultivated plants. Cocoa, milk, sugar, fruit and wheat become the foundations of syrups, cream, dough, chocolate and desserts."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "coffeework:coffee_seeds,coffeework:blueberry_bush,coffeework:vanilla_seeds",
+      "title": "Cultivated Crops",
+      "text": "Coffee trees and blueberry bushes grow on dirt, grass blocks, or farmland; vanilla seeds require farmland. Mature coffee and blueberry plants can be harvested without breaking them, and bone meal accelerates growth."
+    }
+  ]
+}

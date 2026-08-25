@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:iron_bowl_batter_coffee"
+    }
+  ],
+  "result": {
+    "item": "coffeework:muffin_coffee_raw",
+    "count": 3
+  }
+}

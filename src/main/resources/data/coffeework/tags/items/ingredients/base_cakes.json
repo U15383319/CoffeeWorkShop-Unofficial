@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "coffeework:cake_sponge_base",
+    "coffeework:cake_sponge_chocolate_base",
+    "coffeework:cake_sponge_coffee_base",
+    "coffeework:cake_sponge_carrot_base",
+    "coffeework:cake_sponge_pumpkin_base",
+    "coffeework:cake_sponge_redvelvet_base",
+    "coffeework:cake_sponge_lemon_base",
+    "coffeework:cake_sponge_tea_base",
+    "coffeework:cake_sponge_berry_base"
+  ]
+}

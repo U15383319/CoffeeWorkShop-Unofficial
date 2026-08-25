@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SIS",
+    "IPI",
+    "SRS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "coffeework:grinder_off",
+    "count": 1
+  }
+}

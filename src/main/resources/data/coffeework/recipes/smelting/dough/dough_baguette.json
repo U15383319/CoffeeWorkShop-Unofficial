@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:dough_baguette"
+  },
+  "result": {
+    "item": "coffeework:baguette",
+    "count": 2
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

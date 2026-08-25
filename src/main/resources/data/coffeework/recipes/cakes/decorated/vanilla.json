@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_sponge"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:cream_milk"
+    },
+    {
+      "tag": "coffeework:ingredients/fruits"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cake",
+    "count": 1
+  }
+}

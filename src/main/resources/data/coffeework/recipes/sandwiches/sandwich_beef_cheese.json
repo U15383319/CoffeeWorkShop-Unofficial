@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:bread_round"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "coffeework:cheese"
+    }
+  ],
+  "result": {
+    "item": "coffeework:sandwich_beef_cheese",
+    "count": 2
+  }
+}

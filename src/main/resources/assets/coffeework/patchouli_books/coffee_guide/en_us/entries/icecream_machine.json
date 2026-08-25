@@ -1,0 +1,17 @@
+{
+  "name": "Ice Cream Machine",
+  "category": "coffeework:machines",
+  "icon": "coffeework:icecreammachine_off",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:icecreammachine_off",
+      "text": "Freeze cream mixtures into seven ice cream flavours."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Use snowballs, ice, packed ice or blue ice in the fuel slot. Denser ice keeps the machine cold for longer."
+    }
+  ]
+}

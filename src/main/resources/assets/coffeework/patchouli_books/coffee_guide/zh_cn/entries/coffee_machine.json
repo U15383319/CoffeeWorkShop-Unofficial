@@ -1,0 +1,17 @@
+{
+  "name": "咖啡机",
+  "category": "coffeework:machines",
+  "icon": "coffeework:coffeemachine_off",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:coffeemachine_off",
+      "text": "咖啡机用于冲煮浓缩咖啡和制作奶泡。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "该机器不消耗固体燃料。把支持的原料放入输入槽，即可从输出槽取得加工后的饮品组件。"
+    }
+  ]
+}

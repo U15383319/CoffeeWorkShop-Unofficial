@@ -1,0 +1,16 @@
+{
+  "name": "Using JEI",
+  "category": "coffeework:basics",
+  "icon": "coffeework:grinder_off",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "When Just Enough Items is installed, press R over an ingredient or U over a result to browse Coffee Workshop recipes. Each GUI-based processing machine has its own recipe category and catalyst."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Open the correct machine and click the arrow in its screen to open that category. JEI's transfer button moves a matching ingredient into the input slot; fuel is still supplied separately."
+    }
+  ]
+}

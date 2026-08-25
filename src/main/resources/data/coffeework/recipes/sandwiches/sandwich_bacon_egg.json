@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:toast"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "coffeework:sandwich_bacon_egg",
+    "count": 2
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:iron_bowl"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "result": {
+    "item": "coffeework:iron_bowl_batter_lemon",
+    "count": 1
+  }
+}

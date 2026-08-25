@@ -1,0 +1,35 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "teastory"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "coffeework:cup_glass"
+          },
+          {
+            "item": "minecraft:water_bucket"
+          },
+          {
+            "item": "coffeework:ice_slag"
+          },
+          {
+            "item": "teastory:green_tea_bag"
+          }
+        ],
+        "result": {
+          "item": "coffeework:coffee_green_tea_ice",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

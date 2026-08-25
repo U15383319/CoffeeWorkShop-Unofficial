@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_sponge_berry"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_sponge_berry_slices",
+    "count": 8
+  }
+}

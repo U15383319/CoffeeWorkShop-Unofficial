@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:plate_pastry"
+    },
+    {
+      "item": "coffeework:plate_pastry"
+    },
+    {
+      "item": "coffeework:plate_pastry"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:custard"
+    },
+    {
+      "item": "coffeework:custard"
+    }
+  ],
+  "result": {
+    "item": "coffeework:mille_feuille",
+    "count": 2
+  }
+}

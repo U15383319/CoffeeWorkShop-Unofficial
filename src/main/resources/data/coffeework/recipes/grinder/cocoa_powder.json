@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:grinder",
+  "ingredient": {
+    "item": "coffeework:cocoa_bean"
+  },
+  "result": {
+    "item": "coffeework:cocoa_powder",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

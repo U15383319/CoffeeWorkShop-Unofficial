@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:coldbrew_bottle"
+    },
+    {
+      "item": "coffeework:cup_glass"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "coffeework:syrup_chocolate"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_coldbrew_latte_chocolate_ice",
+    "count": 1
+  }
+}

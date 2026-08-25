@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:iron_bowl_batter"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "coffeework:iron_bowl_batter_tea",
+    "count": 1
+  }
+}

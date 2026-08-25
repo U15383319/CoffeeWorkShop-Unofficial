@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:syrup_empty"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "coffeework:blueberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "coffeework:syrup_fruit",
+    "count": 1
+  }
+}

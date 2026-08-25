@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:plate"
+    },
+    {
+      "item": "coffeework:coffee_latte_caramel"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_latte_caramel_plate",
+    "count": 1
+  }
+}

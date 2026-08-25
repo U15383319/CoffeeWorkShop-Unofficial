@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:iron_bowl_batter"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "coffeework:iron_bowl_batter_red",
+    "count": 1
+  }
+}

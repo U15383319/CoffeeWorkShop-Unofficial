@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "teastory"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "coffeework:cup_glass"
+          },
+          {
+            "tag": "coffeework:ingredients/sugar"
+          },
+          {
+            "item": "minecraft:milk_bucket"
+          },
+          {
+            "item": "coffeework:ice_slag"
+          },
+          {
+            "item": "teastory:black_tea_bag"
+          }
+        ],
+        "result": {
+          "item": "coffeework:coffee_milk_tea_ice",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

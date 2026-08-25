@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:dough_cookie"
+  },
+  "result": {
+    "item": "minecraft:cookie",
+    "count": 10
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

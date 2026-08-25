@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:iron_bowl_batter"
+    },
+    {
+      "item": "coffeework:blueberry"
+    }
+  ],
+  "result": {
+    "item": "coffeework:iron_bowl_batter_berry",
+    "count": 1
+  }
+}

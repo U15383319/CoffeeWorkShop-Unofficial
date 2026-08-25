@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:dough_cookie"
+  },
+  "result": {
+    "item": "minecraft:cookie",
+    "count": 10
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:brownie_raw"
+  },
+  "result": {
+    "item": "coffeework:brownie_model",
+    "count": 1
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

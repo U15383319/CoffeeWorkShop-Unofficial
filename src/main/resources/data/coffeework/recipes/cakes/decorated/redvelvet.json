@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_sponge_redvelvet"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:cream_milk"
+    },
+    {
+      "item": "coffeework:cheese"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_redvelvet",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "TTT",
+    "T T",
+    "TFT"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:terracotta"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "coffeework:oven_off",
+    "count": 1
+  }
+}

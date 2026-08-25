@@ -1,0 +1,18 @@
+{
+  "name": "作物与原料",
+  "category": "coffeework:basics",
+  "icon": "coffeework:vanilla_seeds",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "咖啡树、蓝莓丛和香草都是可栽培植物。可可、牛奶、糖、水果和小麦则是糖浆、奶油、面团、巧克力及各种甜点的基础。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "coffeework:coffee_seeds,coffeework:blueberry_bush,coffeework:vanilla_seeds",
+      "title": "栽培作物",
+      "text": "咖啡树和蓝莓丛可种在泥土、草方块或耕地上；香草种子必须种在耕地上。成熟的咖啡树与蓝莓丛可直接收获而不破坏植株，骨粉可以加速生长。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:dough_bread_round"
+  },
+  "result": {
+    "item": "coffeework:bread_round",
+    "count": 2
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

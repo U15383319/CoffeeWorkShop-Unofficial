@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:dough_ginger"
+    },
+    {
+      "item": "coffeework:dough_ginger"
+    }
+  ],
+  "result": {
+    "item": "coffeework:ginger_bread_man_raw",
+    "count": 4
+  }
+}

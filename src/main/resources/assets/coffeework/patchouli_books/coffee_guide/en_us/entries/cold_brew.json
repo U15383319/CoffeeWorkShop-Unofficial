@@ -1,0 +1,24 @@
+{
+  "name": "Cold Brew Pot",
+  "category": "coffeework:machines",
+  "icon": "coffeework:coldbrew_pot",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:empty_coldbrew_pot",
+      "text": "First craft an empty cold brew pot from four iron plates and three glass panes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:coldbrew_pot",
+      "text": "Load the empty pot with four portions of coffee powder and a water bucket, then place the prepared pot in the world."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "coffeework:coldbrew_bottle",
+      "title": "Steeping and Bottling",
+      "text": "The placed pot advances through seven cold-brew stages. When the coffee appears in the pot, use a glass bottle on it to collect one cold brew bottle."
+    }
+  ]
+}

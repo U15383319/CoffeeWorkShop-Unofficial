@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "teastory"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "coffeework:cup"
+          },
+          {
+            "item": "minecraft:milk_bucket"
+          },
+          {
+            "tag": "coffeework:ingredients/sugar"
+          },
+          {
+            "item": "teastory:black_tea_bag"
+          },
+          {
+            "item": "coffeework:espresso"
+          }
+        ],
+        "result": {
+          "item": "coffeework:coffee_mandarin_drink",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

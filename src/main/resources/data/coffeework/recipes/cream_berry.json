@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:mixing_bowl"
+    },
+    {
+      "item": "coffeework:milk_form"
+    },
+    {
+      "item": "coffeework:blueberry"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cream_berry",
+    "count": 1
+  }
+}

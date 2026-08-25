@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:bag"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    }
+  ],
+  "result": {
+    "item": "coffeework:bag_flour",
+    "count": 1
+  }
+}

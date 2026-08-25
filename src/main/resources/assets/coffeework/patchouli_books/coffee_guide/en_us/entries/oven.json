@@ -1,0 +1,17 @@
+{
+  "name": "Clay Oven",
+  "category": "coffeework:machines",
+  "icon": "coffeework:oven_off",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:oven_off",
+      "text": "The Clay Oven bakes breads, cookies, muffins, mooncakes and pastries."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Insert shaped dough or a prepared model in the input slot and furnace fuel below it. Many containers and moulds are returned after processing or crafting."
+    }
+  ]
+}

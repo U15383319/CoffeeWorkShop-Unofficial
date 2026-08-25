@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:ginger_bread_man_raw"
+  },
+  "result": {
+    "item": "coffeework:ginger_bread_man",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

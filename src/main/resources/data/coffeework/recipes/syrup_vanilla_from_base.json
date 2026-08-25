@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:syrup_full"
+    },
+    {
+      "item": "coffeework:vanilla"
+    }
+  ],
+  "result": {
+    "item": "coffeework:syrup_vanilla",
+    "count": 1
+  }
+}

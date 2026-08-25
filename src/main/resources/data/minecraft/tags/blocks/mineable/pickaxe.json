@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "coffeework:soda_ore",
+    "coffeework:grinder_off",
+    "coffeework:coffeemachine_off",
+    "coffeework:icecreammachine_off",
+    "coffeework:roller_off",
+    "coffeework:oven_off"
+  ]
+}

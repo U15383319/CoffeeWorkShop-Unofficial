@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:dough_baguette"
+  },
+  "result": {
+    "item": "coffeework:baguette",
+    "count": 2
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

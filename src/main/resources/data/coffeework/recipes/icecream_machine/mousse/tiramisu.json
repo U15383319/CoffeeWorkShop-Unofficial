@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:icecream_machine",
+  "ingredient": {
+    "item": "coffeework:tiramisu_raw"
+  },
+  "result": {
+    "item": "coffeework:tiramisu_model",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

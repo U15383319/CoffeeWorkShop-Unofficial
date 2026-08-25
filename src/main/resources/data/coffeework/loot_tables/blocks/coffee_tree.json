@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ],
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "coffeework:coffee_tree",
+          "properties": {
+            "age": "3"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "coffeework:coffee_seeds"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "coffeework:blocks/coffee_tree"
+}

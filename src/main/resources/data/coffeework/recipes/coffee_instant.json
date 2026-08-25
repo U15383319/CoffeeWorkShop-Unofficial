@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cup"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "coffeework:coffee_instant_stick"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_instant",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:coffee_instant_box"
+    }
+  ],
+  "result": {
+    "item": "coffeework:coffee_instant",
+    "count": 9
+  }
+}

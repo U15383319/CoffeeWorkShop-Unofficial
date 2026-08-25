@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "item": "coffeework:sandwich_club",
+    "count": 2
+  }
+}

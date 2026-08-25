@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:coffee_machine",
+  "ingredient": {
+    "item": "minecraft:milk_bucket"
+  },
+  "result": {
+    "item": "coffeework:milk_form",
+    "count": 1
+  },
+  "processing_time": 120,
+  "experience": 1.0
+}

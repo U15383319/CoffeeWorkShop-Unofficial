@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:mooncake_egg_raw"
+  },
+  "result": {
+    "item": "coffeework:mooncake_egg",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

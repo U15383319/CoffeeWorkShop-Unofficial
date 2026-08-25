@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:plate_dough_pastry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "coffeework:milk_form"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "coffeework:pie_tea",
+    "count": 1
+  }
+}

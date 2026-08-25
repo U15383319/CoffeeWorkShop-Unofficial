@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "GGG",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "coffeework:plate_iron"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "coffeework:empty_coldbrew_pot",
+    "count": 1
+  }
+}

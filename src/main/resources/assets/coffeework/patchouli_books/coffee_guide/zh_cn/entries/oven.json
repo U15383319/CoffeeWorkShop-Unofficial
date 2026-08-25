@@ -1,0 +1,17 @@
+{
+  "name": "粘土烤炉",
+  "category": "coffeework:machines",
+  "icon": "coffeework:oven_off",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:oven_off",
+      "text": "粘土烤炉可制作面包、饼干、松饼、月饼和各类酥点。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "把成形面团或准备好的模具放入输入槽，并在下方加入燃料。许多容器和模具会在加工或合成后返还。"
+    }
+  ]
+}

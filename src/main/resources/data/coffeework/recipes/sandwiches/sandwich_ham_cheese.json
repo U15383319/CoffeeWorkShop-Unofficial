@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:bagel"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "coffeework:cheese"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "item": "coffeework:sandwich_ham_cheese",
+    "count": 2
+  }
+}

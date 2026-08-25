@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:dough"
+    },
+    {
+      "item": "coffeework:yeast"
+    },
+    {
+      "item": "coffeework:flour"
+    }
+  ],
+  "result": {
+    "item": "coffeework:dough_bread",
+    "count": 1
+  }
+}

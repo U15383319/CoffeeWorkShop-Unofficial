@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:muffin_coffee_raw"
+  },
+  "result": {
+    "item": "coffeework:muffin_coffee",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

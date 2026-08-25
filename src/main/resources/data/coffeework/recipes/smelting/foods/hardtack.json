@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:hardtack_raw"
+  },
+  "result": {
+    "item": "coffeework:hardtack",
+    "count": 1
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

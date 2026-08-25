@@ -1,0 +1,6 @@
+{
+  "name": "加工机器",
+  "description": "咖啡工坊的六种加工机器。",
+  "icon": "coffeework:grinder_off",
+  "sortnum": 1
+}

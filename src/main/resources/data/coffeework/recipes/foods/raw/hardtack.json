@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:plate_dough"
+    },
+    {
+      "tag": "coffeework:ingredients/baking_powder"
+    }
+  ],
+  "result": {
+    "item": "coffeework:hardtack_raw",
+    "count": 4
+  }
+}

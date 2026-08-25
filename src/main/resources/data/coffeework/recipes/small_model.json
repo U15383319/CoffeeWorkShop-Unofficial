@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "I",
+    "P"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "coffeework:plate_iron"
+    }
+  },
+  "result": {
+    "item": "coffeework:small_model",
+    "count": 8
+  }
+}

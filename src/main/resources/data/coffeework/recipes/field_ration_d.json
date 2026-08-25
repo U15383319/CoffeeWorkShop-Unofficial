@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cocoa_batter"
+    },
+    {
+      "item": "coffeework:cocoa_batter"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:flour"
+    },
+    {
+      "item": "coffeework:flour"
+    }
+  ],
+  "result": {
+    "item": "coffeework:field_ration_d",
+    "count": 1
+  }
+}

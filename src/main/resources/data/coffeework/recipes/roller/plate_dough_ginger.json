@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:roller",
+  "ingredient": {
+    "item": "coffeework:dough_ginger"
+  },
+  "result": {
+    "item": "coffeework:plate_dough_ginger",
+    "count": 1
+  },
+  "processing_time": 120,
+  "experience": 1.0
+}

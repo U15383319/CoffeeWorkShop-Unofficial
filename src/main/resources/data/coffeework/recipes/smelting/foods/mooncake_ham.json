@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "coffeework:mooncake_ham_raw"
+  },
+  "result": {
+    "item": "coffeework:mooncake_ham",
+    "count": 1
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

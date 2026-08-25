@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:cake_sponge_chocolate"
+    },
+    {
+      "item": "coffeework:syrup_chocolate"
+    },
+    {
+      "tag": "coffeework:ingredients/sugar"
+    },
+    {
+      "item": "coffeework:cream_chocolate"
+    }
+  ],
+  "result": {
+    "item": "coffeework:cake_schwarzwald",
+    "count": 1
+  }
+}

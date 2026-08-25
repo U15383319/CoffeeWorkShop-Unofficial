@@ -1,0 +1,17 @@
+{
+  "name": "Coffee Machine",
+  "category": "coffeework:machines",
+  "icon": "coffeework:coffeemachine_off",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "coffeework:coffeemachine_off",
+      "text": "The coffee machine brews espresso and prepares milk foam."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "This machine does not consume solid fuel. Insert a supported ingredient in the input slot and collect the prepared component from the output."
+    }
+  ]
+}

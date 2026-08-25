@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coffeework:mousse_coffee_model"
+    }
+  ],
+  "result": {
+    "item": "coffeework:mousse_coffee",
+    "count": 1
+  }
+}

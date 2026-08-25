@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:icecream_machine",
+  "ingredient": {
+    "item": "minecraft:water_bucket"
+  },
+  "result": {
+    "item": "minecraft:ice",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}

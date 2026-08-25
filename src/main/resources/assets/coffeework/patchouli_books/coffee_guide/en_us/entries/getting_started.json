@@ -1,0 +1,18 @@
+{
+  "name": "Your First Coffee",
+  "category": "coffeework:basics",
+  "icon": "coffeework:coffee_seeds",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Grow a coffee tree and harvest coffee seeds. Process the seeds into raw beans with the Thermal Grinder, roast them in a furnace, then grind the roasted beans into coffee powder. The Coffee Machine turns that powder into espresso and milk foam."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "coffeework:coffee_seeds",
+      "title": "Coffee Seeds",
+      "text": "Coffee seeds plant the four-stage coffee tree on dirt, grass blocks, or farmland. A mature tree returns one seed when harvested; process it in the Thermal Grinder to obtain a raw bean."
+    }
+  ]
+}

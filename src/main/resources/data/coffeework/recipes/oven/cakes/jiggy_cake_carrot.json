@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:oven",
+  "ingredient": {
+    "item": "coffeework:jiggy_cake_carrot_raw"
+  },
+  "result": {
+    "item": "coffeework:jiggy_cake_carrot_model",
+    "count": 1
+  },
+  "processing_time": 200,
+  "experience": 0.0
+}
