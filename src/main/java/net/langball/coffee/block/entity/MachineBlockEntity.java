@@ -199,6 +199,14 @@ public final class MachineBlockEntity extends BlockEntity implements MenuProvide
         return data;
     }
 
+    public int processingProgress() {
+        return progress;
+    }
+
+    public int processingTotal() {
+        return progressTotal;
+    }
+
     public boolean stillValid(Player player) {
         return level != null && level.getBlockEntity(worldPosition) == this
                 && player.distanceToSqr(worldPosition.getX() + 0.5D, worldPosition.getY() + 0.5D,

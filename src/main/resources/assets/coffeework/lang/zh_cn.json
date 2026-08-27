@@ -678,5 +678,11 @@
   "item.coffeework.records_lazy_lady_kaguya.desc": "沁墨蓝汐 - Lazy Lady Kaguya",
   "item.coffeework.records_the_grimoire_of_marisa.desc": "沁墨蓝汐 - The Grimoire of Marisa",
   "book.coffeework.coffee_guide.name": "咖啡工坊指南",
-  "book.coffeework.coffee_guide.landing_text": "咖啡、甜点与加工机器指南。"
+  "book.coffeework.coffee_guide.landing_text": "咖啡、甜点与加工机器指南。",
+  "jade.coffeework.machine.progress": "加工进度：%s%%",
+  "jade.coffeework.cold_brew.stage": "冷萃阶段：%1$s / %2$s",
+  "jade.coffeework.cold_brew.ready": "冷萃阶段：%1$s / %2$s（可装瓶）",
+  "jade.coffeework.cold_brew.drained": "冷萃阶段：已取液",
+  "config.jade.plugin_coffeework.machine_progress": "机器加工进度",
+  "config.jade.plugin_coffeework.cold_brew_stage": "冷萃阶段"
 }
