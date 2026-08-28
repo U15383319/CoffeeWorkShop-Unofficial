@@ -134,6 +134,21 @@ repositories {
         content { includeGroup 'maven.modrinth' }
     }
 
+    // Create 6 splits its runtime across Create, Ponder, Flywheel, Registrate,
+    // and MixinExtras. These repositories are only used by development runs.
+    maven {
+        name = 'Create'
+        url = 'https://maven.createmod.net'
+    }
+    maven {
+        name = 'RegistrateMirror'
+        url = 'https://maven.ithundxr.dev/mirror'
+    }
+    maven {
+        name = 'FuzsModResources'
+        url = 'https://raw.githubusercontent.com/Fuzss/modresources/main/maven/'
+    }
+
     // Tea Recount disables CurseMaven third-party sharing. Its official CurseForge download
     // endpoint is exposed as a narrow Ivy repository so normal runClient runs can still test it.
     ivy {
@@ -186,6 +201,27 @@ dependencies {
         runtimeOnly fg.deobf("maven.modrinth:tough-as-nails:${toughasnails_version}")
         runtimeOnly fg.deobf("maven.modrinth:glitchcore:${glitchcore_version}")
         runtimeOnly fg.deobf("curseforge.direct:tea-the-story-recount:${teastory_file_id}@jar")
+    }
+
+    // The integrations themselves are data-only and remain optional. Normal
+    // development runs load these mods so their recipes can be tested in JEI;
+    // use -PskipTechCompatRuntime to verify Coffee Workshop without them.
+    if (!project.hasProperty('skipTechCompatRuntime')) {
+        runtimeOnly(fg.deobf("com.simibubi.create:create-${minecraft_version}:${create_version}:slim")) {
+            transitive = false
+        }
+        runtimeOnly fg.deobf("net.createmod.ponder:Ponder-Forge-${minecraft_version}:${ponder_version}")
+        runtimeOnly fg.deobf("dev.engine-room.flywheel:flywheel-forge-${minecraft_version}:${flywheel_version}")
+        runtimeOnly fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
+        runtimeOnly "io.github.llamalad7:mixinextras-forge:${mixinextras_version}"
+
+        runtimeOnly fg.deobf("maven.modrinth:mekanism:${mekanism_version}")
+
+        runtimeOnly fg.deobf("curse.maven:cofh-core-69162:${cofh_core_file_id}")
+        runtimeOnly fg.deobf("curse.maven:thermal-foundation-222880:${thermal_foundation_file_id}")
+        runtimeOnly fg.deobf("curse.maven:thermal-expansion-69163:${thermal_expansion_file_id}")
+
+        runtimeOnly fg.deobf("blusunrize.immersiveengineering:ImmersiveEngineering:${immersive_engineering_version}")
     }
 
     // Example mod dependency using a mod jar from ./libs with a flat dir repository

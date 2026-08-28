@@ -12,10 +12,10 @@
       "tag": "coffeework:ingredients/sugar"
     },
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     },
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     }
   ],
   "result": {

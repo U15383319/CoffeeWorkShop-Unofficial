@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "thermal_expansion"
+        }
+      ],
+      "recipe": {
+        "type": "thermal:pulverizer",
+        "ingredient": {
+          "item": "coffeework:cocoa_bean"
+        },
+        "result": [
+          {
+            "item": "coffeework:cocoa_powder",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

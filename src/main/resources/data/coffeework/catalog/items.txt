@@ -406,6 +406,7 @@ plate_pastry
 plate_pastry_raw
 puff
 puff_raw
+raw_soda
 record_blank
 records_kusa_noshi_to_ne
 records_lazy_lady_kaguya

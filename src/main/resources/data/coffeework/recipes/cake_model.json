@@ -11,7 +11,7 @@
       "item": "minecraft:iron_ingot"
     },
     "P": {
-      "item": "coffeework:plate_iron"
+      "tag": "forge:plates/iron"
     }
   },
   "result": {

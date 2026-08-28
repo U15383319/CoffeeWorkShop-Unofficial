@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+      "recipe": {
+        "type": "create:milling",
+        "ingredients": [
+          {
+            "item": "coffeework:cocoa_bean"
+          }
+        ],
+        "processingTime": 200,
+        "results": [
+          {
+            "item": "coffeework:cocoa_powder",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

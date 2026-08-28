@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+      "recipe": {
+        "type": "create:crushing",
+        "ingredients": [
+          {
+            "item": "minecraft:ice"
+          }
+        ],
+        "processingTime": 200,
+        "results": [
+          {
+            "item": "coffeework:ice_slag",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

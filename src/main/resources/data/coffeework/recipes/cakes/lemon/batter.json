@@ -18,10 +18,10 @@
       "item": "minecraft:milk_bucket"
     },
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     },
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     },
     {
       "tag": "coffeework:ingredients/sugar"

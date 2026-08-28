@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "immersiveengineering"
+        }
+      ],
+      "recipe": {
+        "type": "immersiveengineering:metal_press",
+        "energy": 2400,
+        "input": {
+          "item": "coffeework:dough_ginger"
+        },
+        "mold": "immersiveengineering:mold_plate",
+        "result": {
+          "item": "coffeework:plate_dough_ginger",
+          "count": 1
+        }
+      }
+    }
+  ]
+}

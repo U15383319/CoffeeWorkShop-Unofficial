@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "thermal_expansion"
+        }
+      ],
+      "recipe": {
+        "type": "thermal:press",
+        "ingredient": {
+          "item": "coffeework:dough"
+        },
+        "result": [
+          {
+            "item": "coffeework:plate_dough",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

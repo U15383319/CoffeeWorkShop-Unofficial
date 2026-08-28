@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "coffeework:plate_iron",
+    {
+      "id": "thermal:iron_plate",
+      "required": false
+    }
+  ]
+}

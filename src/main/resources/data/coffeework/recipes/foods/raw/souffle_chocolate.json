@@ -6,7 +6,7 @@
       "item": "coffeework:iron_bowl_egg"
     },
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     },
     {
       "tag": "coffeework:ingredients/sugar"

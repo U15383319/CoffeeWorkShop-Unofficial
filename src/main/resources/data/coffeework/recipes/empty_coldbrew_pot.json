@@ -8,7 +8,7 @@
   ],
   "key": {
     "I": {
-      "item": "coffeework:plate_iron"
+      "tag": "forge:plates/iron"
     },
     "G": {
       "item": "minecraft:glass_pane"

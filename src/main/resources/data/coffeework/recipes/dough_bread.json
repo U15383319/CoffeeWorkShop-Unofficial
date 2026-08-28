@@ -9,7 +9,7 @@
       "item": "coffeework:yeast"
     },
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     }
   ],
   "result": {

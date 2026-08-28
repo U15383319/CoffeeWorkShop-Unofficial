@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "coffeework:plate_iron"
+      "tag": "forge:plates/iron"
     },
     {
       "item": "minecraft:black_dye"

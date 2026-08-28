@@ -1,0 +1,27 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+      "recipe": {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "coffeework:dough"
+          }
+        ],
+        "results": [
+          {
+            "item": "coffeework:plate_dough",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

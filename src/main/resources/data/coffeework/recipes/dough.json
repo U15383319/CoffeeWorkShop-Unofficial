@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "coffeework:flour"
+      "tag": "forge:flour/wheat"
     },
     {
       "item": "minecraft:water_bucket"

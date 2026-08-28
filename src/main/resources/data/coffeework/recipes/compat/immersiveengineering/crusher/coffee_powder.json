@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "immersiveengineering"
+        }
+      ],
+      "recipe": {
+        "type": "immersiveengineering:crusher",
+        "energy": 1600,
+        "input": {
+          "item": "coffeework:coffee_bean"
+        },
+        "result": {
+          "item": "coffeework:coffee_powder",
+          "count": 1
+        },
+        "secondaries": []
+      }
+    }
+  ]
+}

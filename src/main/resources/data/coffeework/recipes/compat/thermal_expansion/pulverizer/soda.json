@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "thermal_expansion"
+        }
+      ],
+      "recipe": {
+        "type": "thermal:pulverizer",
+        "ingredient": {
+          "item": "coffeework:soda_ore"
+        },
+        "result": [
+          {
+            "item": "coffeework:soda",
+            "count": 4
+          }
+        ]
+      }
+    }
+  ]
+}

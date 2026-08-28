@@ -6,7 +6,7 @@
   ],
   "key": {
     "P": {
-      "item": "coffeework:plate_iron"
+      "tag": "forge:plates/iron"
     },
     "M": {
       "item": "coffeework:cake_model_plate"

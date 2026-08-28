@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "immersiveengineering"
+        }
+      ],
+      "recipe": {
+        "type": "immersiveengineering:crusher",
+        "energy": 6000,
+        "input": {
+          "item": "coffeework:soda_ore"
+        },
+        "result": {
+          "item": "coffeework:soda",
+          "count": 4
+        },
+        "secondaries": []
+      }
+    }
+  ]
+}

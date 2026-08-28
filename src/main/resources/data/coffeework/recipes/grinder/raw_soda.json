@@ -1,0 +1,12 @@
+{
+  "type": "coffeework:grinder",
+  "ingredient": {
+    "item": "coffeework:raw_soda"
+  },
+  "result": {
+    "item": "coffeework:soda",
+    "count": 2
+  },
+  "processing_time": 200,
+  "experience": 0.5
+}

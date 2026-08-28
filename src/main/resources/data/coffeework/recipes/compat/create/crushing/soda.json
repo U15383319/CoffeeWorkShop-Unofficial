@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+      "recipe": {
+        "type": "create:crushing",
+        "ingredients": [
+          {
+            "item": "coffeework:soda_ore"
+          }
+        ],
+        "processingTime": 200,
+        "results": [
+          {
+            "item": "coffeework:soda",
+            "count": 4
+          }
+        ]
+      }
+    }
+  ]
+}

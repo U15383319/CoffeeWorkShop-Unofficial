@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "immersiveengineering"
+        }
+      ],
+      "recipe": {
+        "type": "immersiveengineering:crusher",
+        "energy": 1600,
+        "input": {
+          "item": "minecraft:wheat"
+        },
+        "result": {
+          "item": "coffeework:flour",
+          "count": 1
+        },
+        "secondaries": []
+      }
+    }
+  ]
+}
