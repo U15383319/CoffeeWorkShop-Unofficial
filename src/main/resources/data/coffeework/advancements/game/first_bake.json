@@ -1,0 +1,63 @@
+{
+  "parent": "coffeework:game/clay_oven",
+  "criteria": {
+    "croissant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:croissant"
+            ]
+          }
+        ]
+      }
+    },
+    "baguette": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:baguette"
+            ]
+          }
+        ]
+      }
+    },
+    "muffin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:muffin"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:croissant"
+    },
+    "title": {
+      "translate": "advancement.coffeework.first_bake"
+    },
+    "description": {
+      "translate": "advancement.coffeework.first_bake.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "croissant",
+      "baguette",
+      "muffin"
+    ]
+  ]
+}

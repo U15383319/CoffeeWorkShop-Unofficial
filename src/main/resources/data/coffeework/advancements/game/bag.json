@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/root",
+  "criteria": {
+    "bag": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:bag"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:bag"
+    },
+    "title": {
+      "translate": "advancement.coffeework.bag"
+    },
+    "description": {
+      "translate": "advancement.coffeework.bag.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "bag"
+    ]
+  ]
+}

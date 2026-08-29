@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/iron_plate",
+  "criteria": {
+    "mixing_bowl": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:mixing_bowl"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:mixing_bowl"
+    },
+    "title": {
+      "translate": "advancement.coffeework.mixing_bowl"
+    },
+    "description": {
+      "translate": "advancement.coffeework.mixing_bowl.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "mixing_bowl"
+    ]
+  ]
+}

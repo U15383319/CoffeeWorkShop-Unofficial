@@ -1,0 +1,67 @@
+{
+  "parent": "coffeework:game/bag",
+  "criteria": {
+    "all_double_bags": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:double_bag_coffee_raw"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:double_bag_coffee"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:double_bag_coffee_powder"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:double_bag_cocoa"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:double_bag_cocoa_powder"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:double_bag_flour"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:double_bag_sugar"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:double_bag_coffee"
+    },
+    "title": {
+      "translate": "advancement.coffeework.bag_monster"
+    },
+    "description": {
+      "translate": "advancement.coffeework.bag_monster.desc"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "all_double_bags"
+    ]
+  ]
+}

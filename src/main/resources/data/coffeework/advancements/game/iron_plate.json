@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/roller",
+  "criteria": {
+    "iron_plate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:plate_iron"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:plate_iron"
+    },
+    "title": {
+      "translate": "advancement.coffeework.iron_plate"
+    },
+    "description": {
+      "translate": "advancement.coffeework.iron_plate.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "iron_plate"
+    ]
+  ]
+}

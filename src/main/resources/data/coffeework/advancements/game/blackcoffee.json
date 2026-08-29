@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/espresso",
+  "criteria": {
+    "black_coffee": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:coffee_americano"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coffee_americano"
+    },
+    "title": {
+      "translate": "advancement.coffeework.blackcoffee"
+    },
+    "description": {
+      "translate": "advancement.coffeework.blackcoffee.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "black_coffee"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "parent": "coffeework:game/first",
+  "criteria": {
+    "coffee": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:coffee_seeds"
+            ]
+          }
+        ]
+      }
+    },
+    "blueberry": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:blueberry"
+            ]
+          }
+        ]
+      }
+    },
+    "vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:vanilla"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:blueberry"
+    },
+    "title": {
+      "translate": "advancement.coffeework.garden"
+    },
+    "description": {
+      "translate": "advancement.coffeework.garden.desc"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "coffee"
+    ],
+    [
+      "blueberry"
+    ],
+    [
+      "vanilla"
+    ]
+  ]
+}

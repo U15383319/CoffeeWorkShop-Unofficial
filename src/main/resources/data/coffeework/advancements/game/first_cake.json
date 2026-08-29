@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/first_bake",
+  "criteria": {
+    "sponge_cake": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:cake_sponge"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:cake_sponge"
+    },
+    "title": {
+      "translate": "advancement.coffeework.first_cake"
+    },
+    "description": {
+      "translate": "advancement.coffeework.first_cake.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "sponge_cake"
+    ]
+  ]
+}

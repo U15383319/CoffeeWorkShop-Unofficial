@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/coffee_powder",
+  "criteria": {
+    "filled_pot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:coldbrew_pot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coldbrew_pot"
+    },
+    "title": {
+      "translate": "advancement.coffeework.cold_brew_pot"
+    },
+    "description": {
+      "translate": "advancement.coffeework.cold_brew_pot.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "filled_pot"
+    ]
+  ]
+}

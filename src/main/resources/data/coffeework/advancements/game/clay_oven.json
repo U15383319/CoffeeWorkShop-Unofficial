@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/mixing_bowl",
+  "criteria": {
+    "clay_oven": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:oven_off"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:oven_off"
+    },
+    "title": {
+      "translate": "advancement.coffeework.clay_oven"
+    },
+    "description": {
+      "translate": "advancement.coffeework.clay_oven.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "clay_oven"
+    ]
+  ]
+}

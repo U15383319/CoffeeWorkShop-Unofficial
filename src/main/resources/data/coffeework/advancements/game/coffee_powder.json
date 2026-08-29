@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/roastbean",
+  "criteria": {
+    "coffee_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:coffee_powder"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coffee_powder"
+    },
+    "title": {
+      "translate": "advancement.coffeework.coffee_powder"
+    },
+    "description": {
+      "translate": "advancement.coffeework.coffee_powder.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "coffee_powder"
+    ]
+  ]
+}

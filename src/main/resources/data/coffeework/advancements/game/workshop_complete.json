@@ -1,0 +1,62 @@
+{
+  "parent": "coffeework:game/grinder",
+  "criteria": {
+    "six_machines": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:grinder_off"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:coffeemachine_off"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:roller_off"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:oven_off"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:icecreammachine_off"
+            ]
+          },
+          {
+            "items": [
+              "coffeework:coldbrew_pot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coffeemachine_off"
+    },
+    "title": {
+      "translate": "advancement.coffeework.workshop_complete"
+    },
+    "description": {
+      "translate": "advancement.coffeework.workshop_complete.desc"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "six_machines"
+    ]
+  ]
+}

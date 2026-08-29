@@ -25,7 +25,7 @@ displayName="${mod_name}" #mandatory
 # A URL for the "homepage" for this mod, displayed in the mod UI
 displayURL="https://github.com/0999312/CoffeeWorkshop"
 # A file name (in the root of the mod JAR) containing a logo for display
-#logoFile="examplemod.png" #optional
+logoFile="logo.png"
 # A text field displayed in the mod UI
 credits="Original mod and assets by langball. Ported from the Forge 1.12.2 source."
 # A text field displayed in the mod UI

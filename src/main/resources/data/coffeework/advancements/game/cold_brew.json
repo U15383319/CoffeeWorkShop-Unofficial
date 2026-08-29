@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/cold_brew_pot",
+  "criteria": {
+    "bottled_cold_brew": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:coldbrew_bottle"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coldbrew_bottle"
+    },
+    "title": {
+      "translate": "advancement.coffeework.cold_brew"
+    },
+    "description": {
+      "translate": "advancement.coffeework.cold_brew.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "bottled_cold_brew"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/icecream_machine",
+  "criteria": {
+    "vanilla_icecream": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:icecream_vanilla"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:icecream_vanilla"
+    },
+    "title": {
+      "translate": "advancement.coffeework.first_icecream"
+    },
+    "description": {
+      "translate": "advancement.coffeework.first_icecream.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "vanilla_icecream"
+    ]
+  ]
+}

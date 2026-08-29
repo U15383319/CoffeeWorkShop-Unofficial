@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "any": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {}
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coffee_seeds",
+      "nbt": "{CustomModelData:1}"
+    },
+    "title": {
+      "translate": "advancement.coffeework.root"
+    },
+    "description": {
+      "translate": "advancement.coffeework.root.desc"
+    },
+    "background": "minecraft:textures/block/spruce_planks.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "any"
+    ]
+  ]
+}

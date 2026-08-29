@@ -1,0 +1,37 @@
+{
+  "parent": "coffeework:game/grinder",
+  "criteria": {
+    "raw_bean": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coffeework:coffee_bean_raw"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "coffeework:coffee_bean_raw"
+    },
+    "title": {
+      "translate": "advancement.coffeework.raw_bean"
+    },
+    "description": {
+      "translate": "advancement.coffeework.raw_bean.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "raw_bean"
+    ]
+  ]
+}
