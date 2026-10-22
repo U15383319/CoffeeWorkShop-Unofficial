@@ -26,3 +26,6 @@ forge*changelog.txt
 
 # Local agent instructions
 /AGENTS.md
+
+# Local migration and audit scripts
+/tools/*.ps1
